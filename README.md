@@ -7,7 +7,6 @@ Fitur Website :
 - Landing Page
 - Lihat Data Produk + Filter Produk
 - Lihat Data Detail Produk
-- Fitur Keranjang ( Bisa digunakan untuk menghitung produk yang ingin dibeli tanpa harus login )
 
 Version : 1.0.0
 
